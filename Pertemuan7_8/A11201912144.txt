@@ -1,0 +1,6 @@
+1. Apakah bisa state karakter player dari idle langsung ke Run?
+	YA
+2. Apakah bisa state karakter player dari Jump ke Crunch ?
+	TIDAK
+3. Apakah state Crounch dan CrounchingWalk memiliki kesamaan transisi ?
+	YA
