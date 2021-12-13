@@ -1,0 +1,17 @@
+A11.2019.12144
+
+Cube -> component = transform,mesh filter,mesh renderer,box collider,material
+
+Sphere -> component = transform,mesh filter,mesh renderer,box collider,material
+
+
+Capsule -> component = transform,mesh filter,mesh renderer,box collider,material
+
+
+Quad -> component = transform,mesh filter,mesh renderer,box collider,material
+
+
+Plane -> component = transform,mesh filter,mesh renderer,box collider,material
+
+
+Cylinder -> component = transform,mesh filter,mesh renderer,box collider,material
